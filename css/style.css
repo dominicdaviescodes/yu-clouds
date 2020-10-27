@@ -9,8 +9,25 @@ h1 {
 
 .top-container {
   background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
 }
 
+.top-cloud {
+  position: absolute;
+  /* was 300px */
+  right: 30%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  /* were both 300px */
+  left: 25%;
+  bottom: 50%;
+}
+
+/* 
 .middle-container {
   background-color: red;
   height: 200px;
@@ -21,5 +38,4 @@ h1 {
   background-color: yellow;
   height: 200px;
   width: 200px;
-
-}
+} */
