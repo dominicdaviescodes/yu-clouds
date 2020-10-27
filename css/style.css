@@ -37,15 +37,14 @@ h3 {
   bottom: 50%;
 }
 
-/* 
+.profile img {
+  border-radius: 50%;
+  width: 20%;
+}
 .middle-container {
-  background-color: red;
-  height: 200px;
-  width: 200px;
+
 }
 
 .bottom-container {
-  background-color: yellow;
-  height: 200px;
-  width: 200px;
-} */
+
+}
